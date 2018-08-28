@@ -1,0 +1,1 @@
+cecscope.vba: call delete('/mnt/disk1/z00182775/.vim/plugin/cecscope.vim')|call delete('/mnt/disk1/z00182775/.vim/doc/cecscope.txt')

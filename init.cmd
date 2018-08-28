@@ -1,0 +1,1 @@
+sudo apt-get update && sudo apt-get install vim axel cscope ctags clipit terminator xfonts-terminus console-terminus flashplugin-installer python-setuptools openssh-server openssh-client mysql-server expect

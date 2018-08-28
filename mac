@@ -1,0 +1,12 @@
+https://github.com/google/fonts.git
+
+
+disable .DS_Store
+defaults write com.apple.desktopservices DSDontWriteNetworkStores -bool TRUE
+enable .DS_Store
+defaults delete com.apple.desktopservices DSDontWriteNetworkStores
+
+delete .DS_Store
+sudo find / -name ".DS_Store" -depth -exec rm {} \;
+
+

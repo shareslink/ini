@@ -1,0 +1,26 @@
+# git cmd
+alias gad='git add'
+alias gbr='git branch'
+alias gcm='git commit'
+alias gco='git checkout'
+alias gcp='git cherry-pick'
+alias gdf='git diff'
+alias gdt='git difftool'
+alias ghp='git help'
+alias glg='git log --name-status'
+alias gmg='git merge'
+alias gmv='git mv'
+alias gps='git push'
+alias gpl='git pull'
+alias grb='git rebase'
+alias grm='git rm'
+alias grs='git reset'
+alias gsh='git show'
+alias gst='git status'
+alias gtg='git tag'
+alias gwc='git whatchanged'
+alias gfp='git format-patch'
+alias rsc.subdir='cwd=`pwd`; gits=`find . | grep ".git$"`; for git in $gits; do dir=`dirname $git`; cd $dir; pwd; repo sync .; cd $cwd;  done'
+# git config --global diff.tool vimdiff
+# git config --global difftool.prompt false
+# git config --global alias.d difftool

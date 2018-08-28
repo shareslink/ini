@@ -1,0 +1,54 @@
+===============================================================================
+                Dump Database Info
+===============================================================================
+命令行下具体用法如下： 
+mysqldump -u用戶名 -p密码 -d 数据库名 表名 > 脚本名;
+ 
+ 
+导出整个数据库结构和数据
+mysqldump -h localhost -uroot -p123456 --default-character-set=utf8 database > dump.sql
+ 
+导出单个数据表结构和数据
+mysqldump -h localhost -uroot -p123456 --default-character-set=utf8 database table > dump.sql
+ 
+ 
+导出整个数据库结构（不包含数据）
+mysqldump -h localhost -uroot -p123456 --default-character-set=utf8 -d database > dump.sql
+ 
+导出单个数据表结构（不包含数据）
+mysqldump -h localhost -uroot -p123456 --default-character-set=utf8 -d database table > dump.sql
+
+
+===============================================================================
+                Import data into MySQL
+===============================================================================
+mysql -u$USER -p$PASSWD -h127.0.0.1 -P3306 --default-character-set=utf8 database < db.table.sql
+
+
+
+
+===============================================================================
+                Access denied for user 'root'@'localhost'
+===============================================================================
+# /etc/init.d/mysql stop
+# mysqld_safe --user=mysql --skip-grant-tables --skip-networking &
+# mysql -u root mysql
+mysql> UPDATE user SET Password=PASSWORD('newpassword') where USER='root';
+mysql> FLUSH PRIVILEGES;
+mysql> quit
+# /etc/init.d/mysql restart
+# mysql -uroot -p
+Enter password: <输入新设的密码newpassword>
+
+
+
+===============================================================================
+                Reset root passwd for mysql
+===============================================================================
+SET PASSWORD FOR 'root'@'localhost' = PASSWORD('newpass');
+
+
+===============================================================================
+                Allow remote connection
+===============================================================================
+GRANT ALL PRIVILEGES ON *.* TO 'root'@'%' IDENTIFIED BY '123456' with grant option;
