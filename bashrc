@@ -455,7 +455,7 @@ export PATH="$PATH:$HOME/.rvm/bin:/opt/wkhtmltox/bin" # Add RVM to PATH for scri
 
 export PATH="$HOME/.yarn/bin:$HOME/.config/yarn/global/node_modules/.bin:$PATH"
 
-export ROCKETMQ_HOME='~/ins/rmq'
+export ROCKETMQ_HOME='/root/ins/rmq'
 export PATH="$ROCKETMQ_HOME/bin:$PATH"
 
 
