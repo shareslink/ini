@@ -435,11 +435,6 @@ alias keyname='java -jar ~/bin/NQ.AV.Publickey.Encryptor.jar'
 alias tmc='cd && cd ins/tmc && c'
 alias mi='mvn install'
 alias bai='if [ -d ~/百度云同步盘 ]; then cd ~/百度云同步盘 && c ; else cd ~/Desktop/百度云同步盘 && c ; fi'
-# ~/.bash is used for extra ENV
-# pls hold this line at the end of this file
-if [ -f ~/.bash ]; then
-	source ~/.bash
-fi
 
 alias log='tail -f ~/ins/tmc/logs/catalina.out'
 alias taf='tail -f'
@@ -474,3 +469,8 @@ export HDFS_SECONDARYNAMENODE_USER=root
 export YARN_RESOURCEMANAGER_USER=root
 export YARN_NODEMANAGER_USER=root
 ###############################################################################
+# ~/.bash is used for extra ENV
+# pls hold this line at the end of this file
+if [ -f ~/.bash ]; then
+	source ~/.bash
+fi
