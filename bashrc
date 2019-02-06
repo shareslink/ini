@@ -168,6 +168,7 @@ fi
 # install flashplugin: http://blog.sina.com.cn/s/blog_458f4a2c01018apo.html
 # x11vnc -display :0 -auth /var/run/lightdm/root/:0 -forever -bg -o /var/log/x11vnc.log -rfbauth /home/johnson/.vnc/passwd -rfbport 5900
 # z cyicai  | awk -F':' '{print $1}' | sort -u | grep -v html | grep -v css | while read i; do echo "sed $i"; sed -i .bak 's/cyicai/shareslink/g' $i; rm $i.bak; done;
+# sed -i s/"Sm2"/"SmTwo"/g `grep "Sm2" -rl --include="*.java" ./`
 # log=/var/log/git.log; echo "" > $log; git log --oneline | awk '{print $1}' | while read i; do line >> $log; echo "$i" >> $log; git show $i >> $log; done; vi $log
 ###############################################################################
 # lookup program according to port number: netstat -anpt

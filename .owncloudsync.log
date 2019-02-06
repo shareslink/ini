@@ -1,0 +1,284 @@
+# timestamp | duration | file | instruction | dir | modtime | etag | size | fileId | status | errorString | http result code | other size | other modtime | X-Request-ID
+#=#=#=# Syncrun started 2019-01-08T18:06:20Z
+#=#=#=# Syncrun finished 2019-01-08T18:07:20Z (last step: 60012 msec, total: 60012 msec)
+#=#=#=# Syncrun started 2019-01-08T18:11:07Z
+#=#=#=#=# Propagation starts 2019-01-08T18:11:12Z (last step: 4436 msec, total: 4436 msec)
+18:11:12||font|INST_NEW|Up|1535470040||96|00074208ocvfdf7vatrr|4||201|0|0|b29b9b10-9dfc-497d-b73d-413839be29dc|
+18:11:12||cmd|INST_NEW|Up|1535470040|f3966c47542e4323bb4dead4527a2f43|2808|00074211ocvfdf7vatrr|4||201|0|0|3ad1baf4-0614-4a99-8878-bcde09b77386|
+18:11:12||bashrc|INST_NEW|Up|1537969204|e1718983d3614093946bf6d28e63944c|18003|00074212ocvfdf7vatrr|4||201|0|0|a5ead994-08e3-4108-aeec-afb806b31886|
+18:11:12||font/dejavu-sans-mono|INST_NEW|Up|1535470040||128|00074213ocvfdf7vatrr|4||201|0|0|cfccfe22-71ed-449d-b4f6-6701c5d51df8|
+18:11:12||git.alias|INST_NEW|Up|1535470040|d192afc9a4423439058455dc819b6e7b|764|00074214ocvfdf7vatrr|4||201|0|0|bec5b199-9537-47f1-93e1-224a64b93f10|
+18:11:12||README.md|INST_NEW|Up|1535470040|efbc86013015de0b75bf0332ebb6f34e|27|00074210ocvfdf7vatrr|4||201|0|0|cf890093-9b54-41ae-85cd-3c9e1dba7c67|
+18:11:13||init.sh|INST_NEW|Up|1535470040|645ae69fea4c42a4a28d16b3126c0dcf|3817|00074216ocvfdf7vatrr|4||201|0|0|d42ddfd9-cbb9-48e2-9eb6-57827322145d|
+18:11:13||init.cmd|INST_NEW|Up|1535470040|8f5ed1ad6ae1c6b9acc9fb16e7470d96|207|00074217ocvfdf7vatrr|4||201|0|0|c0c7f64e-416a-44e8-8241-d8c92f29edb0|
+18:11:13||gitconfig|INST_NEW|Up|1535470040|7862e4dafabfe1cb07e615b2e992a67d|433|00074215ocvfdf7vatrr|4||201|0|0|6772514e-6875-4257-b7b7-647969b3d27e|
+18:11:13||font/dejavu-sans-mono/DejaVuSansMono-Bold.ttf|INST_NEW|Up|1535470040|20290897db5263a5d57e4e8f1f8fcf3d|318392|00074218ocvfdf7vatrr|4||201|0|0|64e5904c-c30a-485a-ab26-0183e83c4404|
+18:11:13||font/dejavu-sans-mono/DejaVuSansMono.ttf|INST_NEW|Up|1535470040|81e22cff2292403f8ce6a2804a9e3269|335068|00074219ocvfdf7vatrr|4||201|0|0|0ea4d138-a61c-4c3d-8860-b7019da00509|
+18:11:13||vim|INST_NEW|Up|1535470040||192|00074209ocvfdf7vatrr|4||201|0|0|f03ca9c8-7455-4d6e-a30f-0bee4d8a9390|
+18:11:13||init.ubuntu.sh|INST_NEW|Up|1535470040|cb132815ee0bceaf6fa81b55c614769a|457|00074220ocvfdf7vatrr|4||201|0|0|cd374f4f-c98c-457d-a80e-32f0be337e3d|
+18:11:13||mac|INST_NEW|Up|1535470040|47970d817203ef4bc64dff975e1db735|289|00074223ocvfdf7vatrr|4||201|0|0|d39e508e-b3bf-4cc1-b978-1761aadbc9d5|
+18:11:13||vim/plugin|INST_NEW|Up|1535470040||480|00074224ocvfdf7vatrr|4||201|0|0|96eefaa1-8020-4d23-a76b-ce9b06a6397a|
+18:11:13||install.font.log|INST_NEW|Up|1535470040|1248351c2f8ae56be5be8cfffb46bd47|64|00074225ocvfdf7vatrr|4||201|0|0|590a2e02-ba0a-4884-b5fd-c9cc0dbb6c5b|
+18:11:13||vim/autoload|INST_NEW|Up|1535470040||128|00074222ocvfdf7vatrr|4||201|0|0|fce5a0ae-81f0-483e-9daa-53009198a906|
+18:11:13||install.adt.into.eclipse.log|INST_NEW|Up|1535470040|a1ca88284b303dd637119a91050a7a48|69|00074221ocvfdf7vatrr|4||201|0|0|b00e090e-b8bc-4ffc-89a4-5dbdd18cfcfb|
+18:11:14||mysql.txt|INST_NEW|Up|1535470040|21bdb7d7ce76879f77723a5c32c07236|2245|00074226ocvfdf7vatrr|4||201|0|0|9feb86aa-d940-488f-b2e3-ee91a120d93d|
+18:11:14||vim/plugin/cscope_maps.vim|INST_NEW|Up|1535470040|ff4a1a74fedeb50538d67ffef6237c14|10565|00074227ocvfdf7vatrr|4||201|0|0|8136b08c-3ef6-4d3d-a0ac-3178dd635e73|
+18:11:14||vim/autoload/genutils.vim|INST_NEW|Up|1535470040|6e751d9b0eec7dc16f79b1ca9102e2bb|56165|00074228ocvfdf7vatrr|4||201|0|0|f307765f-952e-4929-b80f-bd55b8e22532|
+18:11:14||vim/plugin/NERD_tree.vim|INST_NEW|Up|1535470040|75fd616a3d6f638e8e1121407f27c8bb|126233|00074229ocvfdf7vatrr|4||201|0|0|1d3c2400-f966-4af7-9c3d-c5ed99a5be28|
+18:11:14||vim/plugin/complete-dict|INST_NEW|Up|1535470040|793270be4b58180730128dca7e4ea209|2066555|00074230ocvfdf7vatrr|4||201|0|0|2df8656d-8d6f-4214-8691-6d78cf049e95|
+18:11:14||vim/plugin/genutils.vim|INST_NEW|Up|1535470040|6beb9f5fa1f146ca5254ad31c1d2ee35|51932|00074235ocvfdf7vatrr|4||201|0|0|645a3e4f-fff6-4854-86da-d6a2fec57341|
+18:11:14||vim/plugin/python_pydiction.vim|INST_NEW|Up|1535470040|47584e2fbda6a9c0d74e08f18c1dd393|5966|00074233ocvfdf7vatrr|4||201|0|0|c553e947-2c58-46f6-b540-11232201cac3|
+18:11:14||vim/plugin/minibufexpl.vim|INST_NEW|Up|1535470040|a88f8448b11295d309b3e2c637fb6bc5|68055|00074234ocvfdf7vatrr|4||201|0|0|16ce6fde-e788-404c-aee4-b5d92dd0c492|
+18:11:14||vim/autoload/lookupfile.vim|INST_NEW|Up|1535470040|ad0788998bf52ac45f135a8e51ef40d5|14536|00074231ocvfdf7vatrr|4||201|0|0|7d24a711-fc08-4216-8c66-3064ae7672c9|
+18:11:14||vim/plugin/lookupfile.vim|INST_NEW|Up|1535470040|c716ea237bf617e9fe99df74ea31ee5b|16556|00074232ocvfdf7vatrr|4||201|0|0|0a759479-e45e-474e-b9b7-af5a6f3868d6|
+18:11:15||vim/plugin/mark.vim|INST_NEW|Up|1535470040|c1686e59b945698ceb7cb5003d0f5f5d|13444|00074236ocvfdf7vatrr|4||201|0|0|93768728-18e8-4645-b5f0-d7b33ec6b935|
+18:11:15||vim/plugin/taglist.vim|INST_NEW|Up|1535470040|6216b3bec1af225256fa798cc24225cf|147962|00074239ocvfdf7vatrr|4||201|0|0|9e307490-4624-49ae-b94a-bb286972955e|
+18:11:15||vim/plugin/visualmark.vim|INST_NEW|Up|1535470040|e8a77673d1757b77eb959285232875f0|9937|00074237ocvfdf7vatrr|4||201|0|0|9b8b692b-e5e2-4014-bdc7-d7bd40f5434f|
+18:11:15||vim/plugin/wintagexplorer.vim|INST_NEW|Up|1535470040|1a250557637911673205987e61d493a5|13399|00074238ocvfdf7vatrr|4||201|0|0|507f0324-28ea-4eb6-a923-ed7d1e2475d9|
+18:11:15||vim/plugin/winmanager.vim|INST_NEW|Up|1535470040|99a9ee04a6d80deacd0357b59684c0bb|39499|00074241ocvfdf7vatrr|4||201|0|0|f67fcbc8-c8ba-404e-9305-667f2185e897|
+18:11:15||vim/plugin/winfileexplorer.vim|INST_NEW|Up|1535470040|516be659f19ceac3c4d33d7da352f151|39277|00074240ocvfdf7vatrr|4||201|0|0|66930ad8-b667-4a48-a8c5-f6d5e942e5f9|
+18:11:15||shell.txt|INST_NEW|Up|1535470040|090d307535a99184dfc23848530f0dca|3716|00074242ocvfdf7vatrr|4||201|0|0|00c66dd2-28fb-4b30-b0d2-d06f7b9320b2|
+18:11:15||readme|INST_NEW|Up|1535470040|ccc1705ed1d3686cbd25529b936b931a|1230|00074243ocvfdf7vatrr|4||201|0|0|bab38364-4a57-45fd-aecb-fbbe310cb73f|
+18:11:15||vimrc|INST_NEW|Up|1535470040|e2d958fabd67748b58398e47cd7cee2b|4738|00074244ocvfdf7vatrr|4||201|0|0|0cc88d9b-08a8-4935-8fc7-9f45a607c97b|
+18:11:16||web.site|INST_NEW|Up|1535470040|b324547aecfd95bb3c5370a224f67cb0|19|00074245ocvfdf7vatrr|4||201|0|0|2e1ea4e8-7b71-4b1d-8df6-032cfe6eb1c7|
+#=#=#=# Syncrun finished 2019-01-08T18:11:16Z (last step: 3828 msec, total: 8265 msec)
+#=#=#=# Syncrun started 2019-01-08T19:21:32Z
+#=#=#=# Syncrun finished 2019-01-08T19:22:27Z (last step: 54839 msec, total: 54839 msec)
+#=#=#=# Syncrun started 2019-01-08T21:57:06Z
+#=#=#=#=# Propagation starts 2019-01-08T21:57:07Z (last step: 657 msec, total: 657 msec)
+21:57:07||.git|INST_NEW|Up|1539446787||512|00084934ocvfdf7vatrr|4||201|0|0|df14b9cf-9ac0-45c1-99b1-3213b1439b13|
+21:57:08||.git/branches|INST_NEW|Up|1535470022||64|00084935ocvfdf7vatrr|4||201|0|0|4a3fda4c-e7ce-4060-84c2-3764c92753fd|
+21:57:08||.gitignore|INST_NEW|Up|1535470040|2978a03e13cab744485d81b963916d73|18|00084936ocvfdf7vatrr|4||201|0|0|7994a471-3ead-486c-b6d5-bdf9ab7b0d55|
+21:57:08||vim/.netrwhist|INST_NEW|Up|1535470040|fc005e9ba544b6b8c662e3552bd0dd95|55|00084938ocvfdf7vatrr|4||201|0|0|814af0c4-c88e-4754-9f85-b049d79498e0|
+21:57:08||.git/hooks|INST_NEW|Up|1535470022||384|00084937ocvfdf7vatrr|4||201|0|0|4cfda87d-845a-4b5b-a499-68b2ca89a774|
+21:57:08||.git/logs|INST_NEW|Up|1535470040||128|00084941ocvfdf7vatrr|4||201|0|0|038e0973-7120-46ae-a20b-1dc8a33274a5|
+21:57:08||.git/objects|INST_NEW|Up|1537969219||1696|00084942ocvfdf7vatrr|4||201|0|0|718987cb-4a19-4cd1-afcb-e732c8c219b1|
+21:57:08||vim/.VimballRecord|INST_NEW|Up|1535470040|5ac5ad0632353724945b81281a02505c|133|00084940ocvfdf7vatrr|4||201|0|0|a32d3add-bfa2-4981-9bec-accbbdccde0c|
+21:57:08||.git/info|INST_NEW|Up|1535470022||96|00084939ocvfdf7vatrr|4||201|0|0|6f0515f6-8d6c-4ac3-8aee-db285300c1fc|
+21:57:09||.git/hooks/pre-push.sample|INST_NEW|Up|1535470022|3e2c6c2149cd386d6ecee984739a186b|1348|00084944ocvfdf7vatrr|4||201|0|0|1246eb0f-ff92-41c8-80e0-27ed1595ff08|
+21:57:09||.git/hooks/commit-msg.sample|INST_NEW|Up|1535470022|34d102727515b883f76cfab18bb93381|896|00084943ocvfdf7vatrr|4||201|0|0|e78eac21-f598-4233-8f53-0ecb0c079a58|
+21:57:09||.git/hooks/pre-commit.sample|INST_NEW|Up|1535470022|b911920192f9fe143226fad13c6f9fa2|1642|00084946ocvfdf7vatrr|4||201|0|0|899b3e76-6371-4758-b87e-f1845bdad65d|
+21:57:09||.git/hooks/pre-applypatch.sample|INST_NEW|Up|1535470022|a96dd869a27a40dea1dabf4182bcedb9|424|00084948ocvfdf7vatrr|4||201|0|0|8ab527f6-dc78-4ba7-9921-d7e343ee2670|
+21:57:09||.git/hooks/pre-rebase.sample|INST_NEW|Up|1535470022|47a75e5f22873596adc0de17abeba405|4898|00084949ocvfdf7vatrr|4||201|0|0|0b335b34-f013-42e1-ac15-d3771b9ee801|
+21:57:09||.git/hooks/post-update.sample|INST_NEW|Up|1535470022|4e26330ee561b95585f36d075d4c7b8a|189|00084947ocvfdf7vatrr|4||201|0|0|008f9205-a12a-41e8-ad24-e7e780a314a5|
+21:57:10||.git/hooks/applypatch-msg.sample|INST_NEW|Up|1535470022|e7a36f46f8266fe6c0ff1505eec8f5c5|478|00084945ocvfdf7vatrr|4||201|0|0|e0d000d2-206d-417b-bb8f-62c51c1d671e|
+21:57:10||.git/hooks/pre-receive.sample|INST_NEW|Up|1535470022|db5d9cba7bdf10d50b49d465f750cdbc|544|00084951ocvfdf7vatrr|4||201|0|0|4765898c-994a-4659-96ec-b166a9724064|
+21:57:10||.git/hooks/prepare-commit-msg.sample|INST_NEW|Up|1535470022|9906210c3e514a9edb03975a9a5ca85d|1492|00084950ocvfdf7vatrr|4||201|0|0|ba07ff17-372e-4188-bc07-94ec190724e7|
+21:57:10||.git/logs/refs|INST_NEW|Up|1535470040||128|00084954ocvfdf7vatrr|4||201|0|0|4dcdea6a-72d4-4912-8959-92290f53cef1|
+21:57:10||.git/info/exclude|INST_NEW|Up|1535470022|40c9749af79f400cb0326c876f76c4be|240|00084953ocvfdf7vatrr|4||201|0|0|5c805b6f-554b-4157-b7ec-8114f8aac8e8|
+21:57:10||.git/hooks/update.sample|INST_NEW|Up|1535470022|13db3adabe4001ea6372a8f351eaef44|3610|00084952ocvfdf7vatrr|4||201|0|0|b7759096-2fd9-4ede-8608-b1bc9b9940da|
+21:57:10||.git/logs/refs/heads|INST_NEW|Up|1535470040||96|00084955ocvfdf7vatrr|4||201|0|0|cccb0f6e-c21d-41ce-b4cc-40ee0c00c2fb|
+21:57:10||.git/objects/05|INST_NEW|Up|1535470039||96|00084957ocvfdf7vatrr|4||201|0|0|cc0ffd6f-6170-464d-b859-0acc6ec6ef71|
+21:57:10||.git/logs/refs/remotes|INST_NEW|Up|1535470040||96|00084956ocvfdf7vatrr|4||201|0|0|45d8ba67-d9ab-4d99-9872-f5ede729aa90|
+21:57:10||.git/objects/0f|INST_NEW|Up|1535470032||96|00084958ocvfdf7vatrr|4||201|0|0|5cdeac51-93c4-438a-a9ba-5266d64c3166|
+21:57:10||.git/logs/refs/heads/master|INST_NEW|Up|1537969219|67a8d2118323ebb6be599b60310d73ed|648|00084960ocvfdf7vatrr|4||201|0|0|4b006690-4d16-46f6-bfa9-9fac6f6c3d7b|
+21:57:10||.git/objects/14|INST_NEW|Up|1535523150||96|00084961ocvfdf7vatrr|4||201|0|0|60f583e5-40c0-459d-b589-093ee2089538|
+21:57:11||.git/logs/HEAD|INST_NEW|Up|1537969219|ebfa4b27300ead779faa2468357af702|648|00084959ocvfdf7vatrr|4||201|0|0|1e22430d-d361-4d6c-ad57-0a5140db902a|
+21:57:11||.git/objects/05/8c1e79be8057157e81ecea504bbf144d5b1e8d|INST_NEW|Up|1535523130|883d7e3b1dff2fceb507f9d87b18b7c7|2526|00084962ocvfdf7vatrr|4||201|0|0|21b18e36-3209-4076-9880-ec183719212e|
+21:57:11||.git/logs/refs/remotes/origin|INST_NEW|Up|1535523159||128|00084963ocvfdf7vatrr|4||201|0|0|4063745c-c3bd-4383-a632-0f64abda77b1|
+21:57:11||.git/objects/2b|INST_NEW|Up|1535470040||96|00084964ocvfdf7vatrr|4||201|0|0|57bba0d3-ef9c-4fb5-8c90-52359a9b4516|
+21:57:11||.git/objects/36|INST_NEW|Up|1535523130||96|00084967ocvfdf7vatrr|4||201|0|0|7414ab24-aa94-4b85-8e61-80556790e64c|
+21:57:11||.git/objects/28|INST_NEW|Up|1535470038||96|00084965ocvfdf7vatrr|4||201|0|0|604ce05f-5a1e-46ac-8821-a4f361358d44|
+21:57:11||.git/logs/refs/remotes/origin/HEAD|INST_NEW|Up|1535470040|abcff2acb63cd69f556e55937adf4f2a|182|00084970ocvfdf7vatrr|4||201|0|0|5f437a4d-dee0-47f7-99e7-6c4787595141|
+21:57:11||.git/objects/0f/6332cc194d5df1c10bdce117c36f9e2512bf49|INST_NEW|Up|1535523130|7966e331dc633baee89c371233741d45|5074|00084968ocvfdf7vatrr|4||201|0|0|670577b1-f7ae-4784-8e93-86b02ceaae7c|
+21:57:11||.git/logs/refs/remotes/origin/master|INST_NEW|Up|1537969224|1e8915b8e3adfac0ef045f62ec3f2100|441|00084969ocvfdf7vatrr|4||201|0|0|f7e35760-dfc9-4ead-b26f-6a824eb82f0c|
+21:57:11||.git/objects/37|INST_NEW|Up|1535470032||96|00084971ocvfdf7vatrr|4||201|0|0|fb7b2f78-aa25-4644-a13b-2439be896e6e|
+21:57:12||.git/objects/14/edb78eadb76ff36e9394230c7714da55dad958|INST_NEW|Up|1535523150|757dd3a02a4b9ba6265a90d74046226e|612|00084966ocvfdf7vatrr|4||201|0|0|354d5168-11f5-4f7c-988c-6936a2dca318|
+21:57:12||.git/objects/2b/0404436c33dc32349dfef71b1e7813c0f53eca|INST_NEW|Up|1535523130|bd5e3dc0d687e3cadd2799bf2d3cdf3d|14255|00084972ocvfdf7vatrr|4||201|0|0|288b3da5-b9cf-4fd2-882d-f55ca9af9766|
+21:57:12||.git/objects/36/9e2702cda78473a48945e529fe5fd76d1793f1|INST_NEW|Up|1535523130|24f1e3a923e168149a000b8b5bb2fcb2|6519|00084973ocvfdf7vatrr|4||201|0|0|01b69aa0-aaa6-4fe6-95df-b2f3c5a71522|
+21:57:12||.git/objects/41|INST_NEW|Up|1535470027||96|00084975ocvfdf7vatrr|4||201|0|0|8053ccc1-e990-432b-8f35-9e73d076a0f8|
+21:57:12||.git/objects/37/cfb70128d8d91a6f65e7d6428a5968bf459fb4|INST_NEW|Up|1535523130|9de7a84c6ada6bdc04b1c0a522bc9da9|1736|00084974ocvfdf7vatrr|4||201|0|0|f91bfbdc-90f7-4ff9-b713-b3decdb21072|
+21:57:12||.git/objects/3f|INST_NEW|Up|1535470032||128|00084976ocvfdf7vatrr|4||201|0|0|c6d21b91-389e-4b22-8df4-90d3543fb57d|
+21:57:12||.git/objects/3a|INST_NEW|Up|1535470039||96|00084977ocvfdf7vatrr|4||201|0|0|47facbc5-3a82-4fbe-91bb-32f631a691e4|
+21:57:12||.git/objects/3f/6fd9e78cd4f71de7f8cc4e9c239722d7a10251|INST_NEW|Up|1535470027|88accb5a0dfa1a548357b19c8876c125|6512|00084980ocvfdf7vatrr|4||201|0|0|e194d302-2d4b-459b-8846-6c4d4bf88a81|
+21:57:12||.git/objects/28/e9adc86f487505cfd4c9f0ece51814116ebec3|INST_NEW|Up|1535523130|e4728a45441a4df74c43b29076d5719e|455576|00084979ocvfdf7vatrr|4||201|0|0|0ce16741-7ed4-4109-adc2-ded9ecfa8eab|
+21:57:12||.git/objects/41/6714d01487d2c01e24f67e650905b8d4478fcc|INST_NEW|Up|1535523130|b32d0ab10c30b5e08c718382bada0fbd|34|00084981ocvfdf7vatrr|4||201|0|0|e018173a-111e-4a49-9cf4-8b508396fa52|
+21:57:12||.git/objects/4b|INST_NEW|Up|1535470040||96|00084978ocvfdf7vatrr|4||201|0|0|56b3afe4-94b1-40f8-819e-dad6ad11c58b|
+21:57:13||.git/objects/4e|INST_NEW|Up|1535470039||96|00084982ocvfdf7vatrr|4||201|0|0|ebe2ac4d-5922-44db-b56b-a6dce9dbd1b5|
+21:57:13||.git/objects/5c|INST_NEW|Up|1535470027||96|00084984ocvfdf7vatrr|4||201|0|0|5dbf981e-ebc5-4270-8f64-56c8ba4d3b91|
+21:57:13||.git/objects/63|INST_NEW|Up|1535470032||96|00084985ocvfdf7vatrr|4||201|0|0|be25e074-1a92-4725-855d-b98647200430|
+21:57:13||.git/objects/4b/4dd961bf542b603c7b70fa510b0118dc52df3b|INST_NEW|Up|1535470040|00b9a18ed609acd58fafe3af8c291f8b|20|00084986ocvfdf7vatrr|4||201|0|0|9e7e3502-f496-49a4-93b4-a85e04c12a5b|
+21:57:13||.git/objects/3f/c760a8c41072ca0effc6fd3ea7e3b73b20244e|INST_NEW|Up|1535523130|bf5eca50b47c74a708781de561767411|210|00084983ocvfdf7vatrr|4||201|0|0|77247408-0cfa-45c9-af8b-65cde4461dbb|
+21:57:13||.git/objects/3a/6a900f95786f6cfa1a796a07f5dbb061b20923|INST_NEW|Up|1535523130|9aa7e30d9b006fb986392fd127f48ec4|2443|00084987ocvfdf7vatrr|4||201|0|0|00eae65f-2f18-437b-8401-e3b312aa6b8f|
+21:57:13||.git/objects/63/edddad1970e44f5cbdcf37bd64a8a875d67a66|INST_NEW|Up|1535523130|b3377e75c7233f1d6b0a4a9bd857f430|778|00084989ocvfdf7vatrr|4||201|0|0|2be6d18f-5a5d-4a1f-9260-6f61398e85ae|
+21:57:13||.git/objects/6e|INST_NEW|Up|1535470032||96|00084993ocvfdf7vatrr|4||201|0|0|67fcafb5-c0c1-490b-b732-dc12b50d2ac0|
+21:57:13||.git/objects/5c/1f5d1280d838df4e9b2f0e60193c9b71b06d32|INST_NEW|Up|1535470027|d6d3b90ce98c97b5152bdd0770d36036|522|00084990ocvfdf7vatrr|4||201|0|0|da80860b-7f0c-4b5b-80b8-f650e34ab6de|
+21:57:13||.git/objects/73|INST_NEW|Up|1535470039||128|00084991ocvfdf7vatrr|4||201|0|0|ad5a550f-81f8-4dc1-adcf-63a15bc871c2|
+21:57:13||.git/objects/4e/78063b69583e2c2efdea943efb09766996ef03|INST_NEW|Up|1535523130|c2ab25ef09cb2b6ba33e01b2a3b2298d|21092|00084992ocvfdf7vatrr|4||201|0|0|579dd4f9-8231-4c2a-bc51-4b1d9bfed181|
+21:57:13||.git/objects/6c|INST_NEW|Up|1535470027||96|00084988ocvfdf7vatrr|4||201|0|0|427cdf80-768e-41a5-bf25-e6d4b801ca6f|
+21:57:14||.git/objects/6c/c7c772fef3892532b494a531cbb51b1cb781ee|INST_NEW|Up|1535523130|122705f246402e4346fbe187debbc45f|43|00084997ocvfdf7vatrr|4||201|0|0|1ef49414-e1e2-4447-9ccc-f7af8edd8ecb|
+21:57:14||.git/objects/6e/21fbf0472b8ba9a8d280d0fdf0d37a2c186ba6|INST_NEW|Up|1535523150|94d582033c72fc9f44a43f37e9ce4109|456|00084995ocvfdf7vatrr|4||201|0|0|db97244f-b5b5-41e9-b5b7-ac1ec50861c7|
+21:57:14||.git/objects/73/e45ec7bd84d8b0d6c7ed670825f0730731fcfb|INST_NEW|Up|1535523130|930367a95012a209767212cde320ca41|41405|00084994ocvfdf7vatrr|4||201|0|0|bbe385ca-2531-42f9-8d6c-43be409b1776|
+21:57:14||.git/objects/77|INST_NEW|Up|1535470032||96|00084996ocvfdf7vatrr|4||201|0|0|0ce93bdc-d125-4458-a499-12f05d7e1c57|
+21:57:15||.git/objects/77/71a52b0855c91f7e7bf18084e5790dd740b05d|INST_NEW|Up|1535523130|885fcc496318db5776e7615ef5aef4e5|54|00085001ocvfdf7vatrr|4||201|0|0|936430b5-740e-4386-b7e9-e99c9ae72f74|
+21:57:15||.git/objects/73/ec6c65a1e76cc88940f7886bb9836a60da9809|INST_NEW|Up|1535523130|2597b11bc0e53cb6b4be2ceb6127005f|4183|00085003ocvfdf7vatrr|4||201|0|0|2e8e2bd4-9918-4aa8-ad78-c29a50b880ce|
+21:57:14||.git/objects/78|INST_NEW|Up|1535470032||96|00084999ocvfdf7vatrr|4||201|0|0|3051b09d-04f9-4913-896e-cd838007665d|
+21:57:14||.git/objects/7a|INST_NEW|Up|1535470032||128|00085000ocvfdf7vatrr|4||201|0|0|85a06571-158d-41b9-9d90-4c33ea0195a5|
+21:57:15||.git/objects/7e|INST_NEW|Up|1535470040||96|00085002ocvfdf7vatrr|4||201|0|0|dadcf781-97d1-4088-b14d-060373e51350|
+21:57:14||.git/objects/76|INST_NEW|Up|1535524951||96|00084998ocvfdf7vatrr|4||201|0|0|75a26454-6a91-43ce-9e1d-b1515deb830c|
+21:57:15||.git/objects/84|INST_NEW|Up|1535470040||96|00085004ocvfdf7vatrr|4||201|0|0|164adf7e-d590-4297-8d03-efbb81b2f6d7|
+21:57:15||.git/objects/78/dde07acbbbbe41dfe59c63a9a64928563cb1ba|INST_NEW|Up|1535523130|20aa82ec3c36ff4f68a8e87a1866e5f3|77|00085006ocvfdf7vatrr|4||201|0|0|bda9da91-e984-4b15-972d-26cafb9bf683|
+21:57:15||.git/objects/8b|INST_NEW|Up|1535470032||96|00085009ocvfdf7vatrr|4||201|0|0|36f468c6-dbdf-4dff-ac3b-3c672caf9d99|
+21:57:15||.git/objects/7a/2fbebe7002e9f6da3794747b82e7c1af40f216|INST_NEW|Up|1535523130|eff6603e984f7f68c301e0fe48fa2033|97|00085007ocvfdf7vatrr|4||201|0|0|5ba59611-8a2a-445f-967c-687f90ce24d5|
+21:57:15||.git/objects/7a/b6e917cdb4296014ed24c3b1de580c28ee2ccf|INST_NEW|Up|1535470027|9efa2979804028a136c1f7f50e6ccdd1|613|00085008ocvfdf7vatrr|4||201|0|0|29d8efed-2d5d-4b91-8b26-28fbca96bd60|
+21:57:15||.git/objects/7e/7a2530bdc5b1ce3f6b66964a1e990f07b2f70b|INST_NEW|Up|1535523130|322a0941c02fc7b3611f133aaccfc64f|35|00085010ocvfdf7vatrr|4||201|0|0|e571726c-8b63-4951-970e-c1191d771be7|
+21:57:16||.git/objects/84/81a68a72bee7d9f65ce5a6f508ee9322d31e98|INST_NEW|Up|1535523130|37fa1e2d12ffbac6fd306875b56c5196|5134|00085011ocvfdf7vatrr|4||201|0|0|328d6fa0-b331-4e0b-b604-99eeb4c8e7a2|
+21:57:16||.git/objects/76/f86454637fc80a4e02b230025bced55effcf61|INST_NEW|Up|1535524951|fea91dcca74c0fd3289d455c402862a3|172|00085005ocvfdf7vatrr|4||201|0|0|ab55f51b-a6c3-4d5c-b66e-e33528982593|
+21:57:16||.git/objects/98|INST_NEW|Up|1535470032||128|00085014ocvfdf7vatrr|4||201|0|0|e40d51da-02c2-4ee1-b118-32981e2de586|
+21:57:16||.git/objects/98/02faf385a6bce8dbd1d6bce04de7104bac135f|INST_NEW|Up|1535523130|6496d100f0984aef289e714d124b274d|1322|00085017ocvfdf7vatrr|4||201|0|0|42e62ea0-bd71-4a51-a87d-eba3cbf71e09|
+21:57:16||.git/objects/92|INST_NEW|Up|1535470027||96|00085015ocvfdf7vatrr|4||201|0|0|801de75e-d8a7-4724-8ac0-cec88f05a2fd|
+21:57:16||.git/objects/8b/7bb2a4e1b2c27786398c320e9020bcc24c3af3|INST_NEW|Up|1535523130|47fd6d216fa6a2998f27bbedf331a85d|206771|00085016ocvfdf7vatrr|4||201|0|0|b9f57f39-07eb-4ec9-bfcd-805a45fa7ed8|
+21:57:16||.git/objects/97|INST_NEW|Up|1535470032||96|00085013ocvfdf7vatrr|4||201|0|0|ac06c446-6270-4f43-aca1-5ab3ffd2c653|
+21:57:16||.git/objects/8f|INST_NEW|Up|1535470038||96|00085012ocvfdf7vatrr|4||201|0|0|6072507d-8bd1-4f7e-98f7-21707cd6919c|
+21:57:17||.git/objects/9a|INST_NEW|Up|1535470032||96|00085020ocvfdf7vatrr|4||201|0|0|8496a912-3526-4f8a-b5a4-825d2c4cefb2|
+21:57:17||.git/objects/9c|INST_NEW|Up|1535470029||96|00085022ocvfdf7vatrr|4||201|0|0|eefd89e8-43d4-453c-b380-17e3d5de5c10|
+21:57:17||.git/objects/8f/6de2823458ac969558e0644b519a1d76ae9e2c|INST_NEW|Up|1535523130|f597201b7f4001c3467426a03013a7fe|3172|00085019ocvfdf7vatrr|4||201|0|0|95585665-ed4e-41d7-b4c0-5a7817860642|
+21:57:17||.git/objects/97/20b582b0876156e10c1fbd565693a8858e9f5a|INST_NEW|Up|1535523130|1d133013695c931700cac2c5c62951e5|66|00085021ocvfdf7vatrr|4||201|0|0|5a4a3414-672e-41b4-a0a9-d269c59aa6c3|
+21:57:17||.git/objects/92/480c151b17e00bed1ddb9ec7af85699cd1b8ee|INST_NEW|Up|1535470027|bf3237e6b981129489e0ccc2ba9da91f|155|00085018ocvfdf7vatrr|4||201|0|0|e870ef57-19a7-4e4a-a5f2-2008b47f955c|
+21:57:17||.git/objects/a0|INST_NEW|Up|1535470032||96|00085024ocvfdf7vatrr|4||201|0|0|f366c17b-0338-4add-a98c-c6b96f1294ee|
+21:57:17||.git/objects/98/fad821de54cfa6b10cfafbaa980404f74ccee1|INST_NEW|Up|1535523130|7532277ee97cac76a15215e64a4f3550|716|00085023ocvfdf7vatrr|4||201|0|0|3d0ad0ff-1c06-4ba3-948f-c280678fc46b|
+21:57:17||.git/objects/a2|INST_NEW|Up|1535470032||96|00085025ocvfdf7vatrr|4||201|0|0|469310a5-02de-46a6-8db8-c88f2a6bdfff|
+21:57:17||.git/objects/9a/4d94b5dd1e74ab14183f7c4541f9d32280008a|INST_NEW|Up|1535523150|1dea01d96e9078968da2059fca712e1f|158|00085026ocvfdf7vatrr|4||201|0|0|97540556-020a-4540-9f9c-87e8c471e507|
+21:57:17||.git/objects/a5|INST_NEW|Up|1537969219||96|00085027ocvfdf7vatrr|4||201|0|0|5790156a-d4dc-4940-9bfc-5aeafea987d2|
+21:57:17||.git/objects/a0/eef775bfe9904d6bd183f5fbf02cef83e4cec6|INST_NEW|Up|1535523130|52a40a78119ed6b4d4c3a4e51fff5f8b|146|00085029ocvfdf7vatrr|4||201|0|0|a4336d5d-a461-403f-b70e-c0035dae1373|
+21:57:17||.git/objects/a2/892c49dc810589b1cbebd1862eb79256e45548|INST_NEW|Up|1535523130|4204bb7cd7237ed8ac40232556862c4f|18251|00085028ocvfdf7vatrr|4||201|0|0|938c0e96-c966-428b-8c07-86f5244b6473|
+21:57:18||.git/objects/ae|INST_NEW|Up|1535470040||96|00085030ocvfdf7vatrr|4||201|0|0|62123b6c-c011-4f09-aedb-17e10dbe9d99|
+21:57:18||.git/objects/a5/4664214253fa085b0b4a797fb28a69865339c9|INST_NEW|Up|1537969219|8820ab23e9fbf0bd2b0a7db20db3d4b1|159|00085031ocvfdf7vatrr|4||201|0|0|cd140eb0-e3ed-4db6-bc0d-901dd8733934|
+21:57:18||.git/objects/b5|INST_NEW|Up|1535524951||96|00085032ocvfdf7vatrr|4||201|0|0|cb22ddea-e483-4d52-b2e3-ddf5c9bfa0bd|
+21:57:18||.git/objects/bb|INST_NEW|Up|1535470032||96|00085035ocvfdf7vatrr|4||201|0|0|681c0939-d4d8-493d-9c96-8652af8810a8|
+21:57:18||.git/objects/af|INST_NEW|Up|1535524945||96|00085033ocvfdf7vatrr|4||201|0|0|ab103bdf-262a-404e-b93c-6258085faf14|
+21:57:18||.git/objects/b5/99bf4cc5da1e297259e396ac5054889053f629|INST_NEW|Up|1535524951|382f99c77f02726c406ae08aefb8d877|613|00085037ocvfdf7vatrr|4||201|0|0|c1bf592a-951a-481b-93ce-783461b9afbd|
+21:57:18||.git/objects/ae/c1d54bc76568f1b5488269eb9244410d7e26f1|INST_NEW|Up|1535523130|975572fd3aad3275a2f9fa45d64b417f|1668|00085034ocvfdf7vatrr|4||201|0|0|b8caee92-9440-4e43-a312-1055a6256a72|
+21:57:18||.git/objects/9c/716794f70b10900beded00f5422deb832f01b1|INST_NEW|Up|1535523130|c0f382870ac2eac5a069c16116730731|200770|00085036ocvfdf7vatrr|4||201|0|0|cfa2f57c-5cf8-4558-b2bc-87aa1b0b195d|
+21:57:19||.git/objects/bb/792c98d3321a1a5ca12a1031556c35cfadda8f|INST_NEW|Up|1535523130|8ee5ef7f7542eee0ef1035fec99b7fd8|347|00085039ocvfdf7vatrr|4||201|0|0|935be8e3-15da-41e9-9eb7-33824fd000b0|
+21:57:19||.git/objects/bc|INST_NEW|Up|1535470033||96|00085038ocvfdf7vatrr|4||201|0|0|1ef925ae-7d3a-473f-a883-c7a39780fb27|
+21:57:19||.git/objects/c0|INST_NEW|Up|1535470039||96|00085040ocvfdf7vatrr|4||201|0|0|d8842b4d-7598-461e-b484-4832fa264b92|
+21:57:19||.git/objects/d5|INST_NEW|Up|1535470040||96|00085041ocvfdf7vatrr|4||201|0|0|c43282aa-951e-4b7a-b6f0-6d08daf06ee3|
+21:57:19||.git/objects/af/a3a810bd5e59ddc339dc6008b24367c855e8b2|INST_NEW|Up|1535524945|d32512622cdee7f2decd67b0eadd172e|6522|00085042ocvfdf7vatrr|4||201|0|0|8e58a817-c8c9-4702-b260-fa98227a97a2|
+21:57:19||.git/objects/c1|INST_NEW|Up|1537969219||128|00085043ocvfdf7vatrr|4||201|0|0|b9c74c30-89f1-44ae-a976-6dbee44ad676|
+21:57:19||.git/objects/c0/1e3063e3605e5c1dfe7983185472e36293cd83|INST_NEW|Up|1535523130|a31f6ab3ff1606c9fd8064ec1ff0fe7f|13241|00085045ocvfdf7vatrr|4||201|0|0|392cea7e-45c2-4f1c-b6e7-89f6bbb2c8b9|
+21:57:19||.git/objects/dc|INST_NEW|Up|1535470032||96|00085046ocvfdf7vatrr|4||201|0|0|741aff28-a94c-4887-8c3c-2f67149f442a|
+21:57:19||.git/objects/d9|INST_NEW|Up|1535470027||96|00085044ocvfdf7vatrr|4||201|0|0|c7c30a73-96d0-474b-bed5-b3f0e44ede5a|
+21:57:19||.git/objects/d5/6ce1952aa618b585cdbd0716814ab0bf8114e8|INST_NEW|Up|1535470040|aa522d77be63a25cffd49238d64005ca|53|00085048ocvfdf7vatrr|4||201|0|0|5073d724-c51c-4852-868a-8a3f5bb8affb|
+21:57:19||.git/objects/bc/3477564ff43f76c013b8c923055c630ac66f49|INST_NEW|Up|1535523130|597d2e048016870f4cd3bce4f83b7285|36357|00085047ocvfdf7vatrr|4||201|0|0|05df93d6-40a2-4e5d-a09b-5f858172e035|
+21:57:19||.git/objects/de|INST_NEW|Up|1535523150||96|00085051ocvfdf7vatrr|4||201|0|0|9deaeed2-f13a-42b0-b422-3b0b671cac0d|
+21:57:19||.git/objects/dc/8527b2aef5875e4c891afc7a95b2e410f82244|INST_NEW|Up|1535523130|da58eb310d6b4d4a705b3501a9a9ad39|1112|00085050ocvfdf7vatrr|4||201|0|0|4595284e-ffcc-405c-82f7-2e17b3c22466|
+21:57:19||.git/objects/d9/186bcbb6fb3f4a11171342c5902e0b68210fb1|INST_NEW|Up|1535523150|8dc6ba673c20984f405431b4fcd0ca11|93|00085052ocvfdf7vatrr|4||201|0|0|784b38a5-9d02-4156-8064-66b5ad75d6ec|
+21:57:20||.git/objects/c1/108873d1747b54c4d9819c034b459456af8fe3|INST_NEW|Up|1537969219|4438a92cc6577526c42f830e5c8bb6b7|613|00085049ocvfdf7vatrr|4||201|0|0|6577d5f3-5504-49e4-9f28-e9889c29da11|
+21:57:20||.git/objects/c1/56bf7c7513e19ecbe0143a9a485fb459ffbac1|INST_NEW|Up|1535523150|457cb714ab353381bb1b76e91e9db6b7|92|00085053ocvfdf7vatrr|4||201|0|0|4a0bca6e-bc78-4f60-845e-6d03a4115719|
+21:57:20||.git/objects/ee|INST_NEW|Up|1535470032||96|00085054ocvfdf7vatrr|4||201|0|0|e3fa0da4-ce89-4593-a874-1618f1868f58|
+21:57:20||.git/objects/de/8159b3db1eeee7cf08a93c29629dd4c4a230e3|INST_NEW|Up|1535523150|ae60247affa0655b7cc11e8e0c4a7224|166|00085055ocvfdf7vatrr|4||201|0|0|9ce1c466-e6ed-4d2c-baa8-7de63fddcdb5|
+21:57:20||.git/objects/f7|INST_NEW|Up|1535470027||96|00085056ocvfdf7vatrr|4||201|0|0|aa88a79d-dfb5-4a47-bb24-000870083d26|
+21:57:20||.git/objects/fe|INST_NEW|Up|1537969214||128|00085059ocvfdf7vatrr|4||201|0|0|423dd6f8-86b9-4c72-84d3-3dd2f1faa636|
+21:57:20||.git/objects/info|INST_NEW|Up|1535470022||64|00085061ocvfdf7vatrr|4||201|0|0|689a0c36-d0d6-4acb-8ed6-b7c5fe1265c8|
+21:57:20||.git/objects/ee/bc89351a112e98d7a9cf6048ff4055c461c49f|INST_NEW|Up|1535523130|497ddcd49cae341685b54120f29bcc24|186|00085060ocvfdf7vatrr|4||201|0|0|53f515be-291a-4da5-9fcc-ac2c16987a97|
+21:57:20||.git/objects/fd|INST_NEW|Up|1535470038||96|00085057ocvfdf7vatrr|4||201|0|0|19cc3138-7272-408a-99ce-6398e4e2cd4b|
+21:57:20||.git/objects/ec|INST_NEW|Up|1535470032||96|00085058ocvfdf7vatrr|4||201|0|0|9141f30d-6387-4874-8934-e2068adddce1|
+21:57:21||.git/objects/pack|INST_NEW|Up|1535470022||64|00085062ocvfdf7vatrr|4||201|0|0|5b534f5a-75b7-43c6-b82c-ba8bd9cb954d|
+21:57:21||.git/objects/fd/f50946f222b4f6513fa98b566e9a4a7d302ee0|INST_NEW|Up|1535523130|c949b45144acddbc5d3badcbfb66fc7c|17711|00085065ocvfdf7vatrr|4||201|0|0|2ae702fb-1d04-419a-8796-6521f11e2405|
+21:57:21||.git/objects/ec/4f62a68852e29b97cc1409721a42e37f498038|INST_NEW|Up|1535523130|2a398d2a920fe3e82806834cda89b1b7|243|00085064ocvfdf7vatrr|4||201|0|0|ae53e910-6553-41ff-abb3-cd146610ff59|
+21:57:21||.git/objects/f7/ed3c0cd3d6b067b370bd7273e494925eaa0e88|INST_NEW|Up|1535523150|c6052637851761865dd151c5bac8dbaa|58|00085063ocvfdf7vatrr|4||201|0|0|e0fb0d7f-752b-48b7-be9e-6415b551618e|
+21:57:21||.git/COMMIT_EDITMSG|INST_NEW|Up|1537969219|abc24dc8ba7ee6996cec28bb3615c317|8|00085068ocvfdf7vatrr|4||201|0|0|4abde332-84d9-4b5f-9967-9deb05a41bd6|
+21:57:21||.git/FETCH_HEAD|INST_NEW|Up|1539433793|3b9c8ebbb849351a664be767aeef6c62|95|00085069ocvfdf7vatrr|4||201|0|0|adf084c8-38b3-4019-80d0-e7012d3a8d32|
+21:57:21||.git/HEAD|INST_NEW|Up|1535470040|b509aa8d894d8e77125a02f3e878e5f1|23|00085070ocvfdf7vatrr|4||201|0|0|7876ba58-2ac3-40b0-8537-c76cfa96a82d|
+21:57:22||.git/ORIG_HEAD|INST_NEW|Up|1539433793|afea2f8d9d21a90e70308b5a5a28aeb8|41|00085071ocvfdf7vatrr|4||201|0|0|1cefface-6d41-4fd3-b7e9-bd037d9bf2b6|
+21:57:22||.git/objects/fe/da4b156cb38e5c56386d92d1143a9252c61c12|INST_NEW|Up|1535523130|e2477d7899da7c54161019913cdb5c62|5633|00085067ocvfdf7vatrr|4||201|0|0|d3d9a50a-5c3f-49c3-aad3-473d4f5c9288|
+21:57:22||.git/config|INST_NEW|Up|1539446787|6c222ae740df09cc147e5e7615e0a767|307|00085072ocvfdf7vatrr|4||201|0|0|b204a363-8711-4e6c-9ad5-cf408056d6e7|
+21:57:22||.git/refs|INST_NEW|Up|1535470040||160|00085066ocvfdf7vatrr|4||201|0|0|48074e1a-75c8-4e7f-8c82-a88ed25a75cc|
+21:57:22||.git/description|INST_NEW|Up|1535470022|91a8577c0807536b4514252c2b06b400|73|00085075ocvfdf7vatrr|4||201|0|0|f892aeb2-1df5-48d6-8aa4-3ed4d1eec424|
+21:57:22||.git/objects/fe/1b641e21c61e20b5cbc1fb1800cced3519a358|INST_NEW|Up|1537969214|35acea3d65290695cab1bed75e2c916b|6525|00085073ocvfdf7vatrr|4||201|0|0|5f4d4d07-ad0a-4f61-84d5-3517632a70fb|
+21:57:22||.git/refs/remotes|INST_NEW|Up|1535470040||96|00085077ocvfdf7vatrr|4||201|0|0|e6b12195-09f6-4295-b68d-7d5ce894dca1|
+21:57:22||.git/refs/heads|INST_NEW|Up|1537969219||96|00085078ocvfdf7vatrr|4||201|0|0|550cb9cf-9174-4875-9c95-d54509758023|
+21:57:22||.git/refs/tags|INST_NEW|Up|1535470022||64|00085079ocvfdf7vatrr|4||201|0|0|81469810-869c-42c0-a804-66184148af46|
+21:57:22||.git/index|INST_NEW|Up|1537969302|6d1186a6b74bf39029082634e552de8d|3254|00085074ocvfdf7vatrr|4||201|0|0|cef079dc-02ba-4fa5-9b92-dad0c889eaee|
+21:57:22||.git/packed-refs|INST_NEW|Up|1535470040|ada7bf7171b0581fbaa2ec8b8885d9a4|114|00085076ocvfdf7vatrr|4||201|0|0|7cb1c1a5-672f-4790-a3e3-a4b8372aaf48|
+21:57:23||.git/refs/remotes/origin|INST_NEW|Up|1539446787||128|00085080ocvfdf7vatrr|4||201|0|0|a8e3f86a-377e-4695-8080-a36ee4ab616c|
+21:57:23||.git/refs/heads/master|INST_NEW|Up|1537969219|d976ea08180f90f080bbe32c5b4d0a22|41|00085081ocvfdf7vatrr|4||201|0|0|0eae2d3a-20ba-46b6-83c2-3b670e2f6e40|
+21:57:23||.git/refs/remotes/origin/HEAD|INST_NEW|Up|1535470040|05f073ec01edda56180d81378b9c0cbc|32|00085082ocvfdf7vatrr|4||201|0|0|635d95f6-5354-48fb-9ad4-c31e6b2a5b99|
+21:57:23||.git/refs/remotes/origin/master|INST_NEW|Up|1537969224|011c7a60bb382cebf52e6d00abb68e1f|41|00085083ocvfdf7vatrr|4||201|0|0|dcdc5efb-0808-4792-bed7-c1c258c398a6|
+#=#=#=# Syncrun finished 2019-01-08T21:57:23Z (last step: 15979 msec, total: 16637 msec)
+#=#=#=# Syncrun started 2019-01-08T22:01:00Z
+#=#=#=#=# Propagation starts 2019-01-08T22:01:10Z (last step: 9650 msec, total: 9650 msec)
+#=#=#=# Syncrun finished 2019-01-08T22:01:10Z (last step: 18 msec, total: 9668 msec)
+#=#=#=# Syncrun started 2019-01-08T22:12:19Z
+#=#=#=#=# Propagation starts 2019-01-08T22:12:20Z (last step: 194 msec, total: 194 msec)
+#=#=#=# Syncrun finished 2019-01-08T22:12:20Z (last step: 19 msec, total: 213 msec)
+#=#=#=# Syncrun started 2019-01-08T22:13:39Z
+#=#=#=#=# Propagation starts 2019-01-08T22:13:39Z (last step: 148 msec, total: 148 msec)
+||.git/FETCH_HEAD|INST_SYNC|Up|1546985618|3b9c8ebbb849351a664be767aeef6c62|95|00085069ocvfdf7vatrr|3|Local file changed during sync.|0|95|1539433793||
+||.git/ORIG_HEAD|INST_SYNC|Up|1546985618|afea2f8d9d21a90e70308b5a5a28aeb8|41|00085071ocvfdf7vatrr|3|Local file changed during sync.|0|41|1539433793||
+#=#=#=# Syncrun finished 2019-01-08T22:13:39Z (last step: 22 msec, total: 170 msec)
+#=#=#=# Syncrun started 2019-01-08T22:13:41Z
+#=#=#=#=# Propagation starts 2019-01-08T22:13:41Z (last step: 207 msec, total: 207 msec)
+22:13:41||.git/FETCH_HEAD|INST_SYNC|Up|1546985618|a07a4d2e19d7731b87838a9bf5683e41|95|00085069ocvfdf7vatrr|4||204|95|1539433793|4de5a477-edbe-410d-8b6c-114d600e77ff|
+22:13:41||.git/ORIG_HEAD|INST_SYNC|Up|1546985618|95f4a4b94bd315b4aae3602693072166|41|00085071ocvfdf7vatrr|4||204|41|1539433793|fea7f52b-6aa4-42e3-96e2-4bbbeda7b028|
+#=#=#=# Syncrun finished 2019-01-08T22:13:42Z (last step: 484 msec, total: 692 msec)
+#=#=#=# Syncrun started 2019-01-08T22:14:30Z
+#=#=#=#=# Propagation starts 2019-01-08T22:14:30Z (last step: 327 msec, total: 327 msec)
+#=#=#=# Syncrun finished 2019-01-08T22:14:30Z (last step: 12 msec, total: 339 msec)
+#=#=#=# Syncrun started 2019-01-08T22:15:23Z
+#=#=#=#=# Propagation starts 2019-01-08T22:15:24Z (last step: 189 msec, total: 189 msec)
+#=#=#=# Syncrun finished 2019-01-08T22:15:24Z (last step: 10 msec, total: 200 msec)
+#=#=#=# Syncrun started 2019-01-08T22:18:38Z
+#=#=#=#=# Propagation starts 2019-01-08T22:18:38Z (last step: 189 msec, total: 189 msec)
+#=#=#=# Syncrun finished 2019-01-08T22:18:38Z (last step: 12 msec, total: 202 msec)
+#=#=#=# Syncrun started 2019-01-09T00:18:43Z
+#=#=#=#=# Propagation starts 2019-01-09T00:18:43Z (last step: 196 msec, total: 196 msec)
+#=#=#=# Syncrun finished 2019-01-09T00:18:43Z (last step: 7 msec, total: 204 msec)
+#=#=#=# Syncrun started 2019-01-09T01:22:19Z
+#=#=#=#=# Propagation starts 2019-01-09T01:22:19Z (last step: 262 msec, total: 262 msec)
+#=#=#=# Syncrun finished 2019-01-09T01:22:19Z (last step: 8 msec, total: 270 msec)
+#=#=#=# Syncrun started 2019-01-09T03:22:28Z
+#=#=#=#=# Propagation starts 2019-01-09T03:22:28Z (last step: 212 msec, total: 212 msec)
+#=#=#=# Syncrun finished 2019-01-09T03:22:28Z (last step: 8 msec, total: 220 msec)
+#=#=#=# Syncrun started 2019-01-09T05:22:34Z
+#=#=#=#=# Propagation starts 2019-01-09T05:22:35Z (last step: 250 msec, total: 250 msec)
+#=#=#=# Syncrun finished 2019-01-09T05:22:35Z (last step: 9 msec, total: 259 msec)
+#=#=#=# Syncrun started 2019-01-09T07:22:40Z
+#=#=#=#=# Propagation starts 2019-01-09T07:22:40Z (last step: 365 msec, total: 365 msec)
+#=#=#=# Syncrun finished 2019-01-09T07:22:40Z (last step: 9 msec, total: 374 msec)
+#=#=#=# Syncrun started 2019-01-09T09:22:47Z
+#=#=#=#=# Propagation starts 2019-01-09T09:22:47Z (last step: 223 msec, total: 223 msec)
+#=#=#=# Syncrun finished 2019-01-09T09:22:47Z (last step: 9 msec, total: 233 msec)
+#=#=#=# Syncrun started 2019-01-09T09:28:50Z
+#=#=#=#=# Propagation starts 2019-01-09T09:28:50Z (last step: 203 msec, total: 203 msec)
+#=#=#=# Syncrun finished 2019-01-09T09:28:50Z (last step: 11 msec, total: 215 msec)
+#=#=#=# Syncrun started 2019-01-09T11:28:55Z
+#=#=#=#=# Propagation starts 2019-01-09T11:28:55Z (last step: 267 msec, total: 267 msec)
+#=#=#=# Syncrun finished 2019-01-09T11:28:55Z (last step: 8 msec, total: 275 msec)
+#=#=#=# Syncrun started 2019-01-09T11:31:53Z
+#=#=#=#=# Propagation starts 2019-01-09T11:31:53Z (last step: 188 msec, total: 188 msec)
+#=#=#=# Syncrun finished 2019-01-09T11:31:53Z (last step: 40 msec, total: 229 msec)
+#=#=#=# Syncrun started 2019-01-10T03:53:40Z
+#=#=#=#=# Propagation starts 2019-01-10T03:53:40Z (last step: 237 msec, total: 237 msec)
+#=#=#=# Syncrun finished 2019-01-10T03:53:40Z (last step: 10 msec, total: 248 msec)
+#=#=#=# Syncrun started 2019-01-10T16:30:20Z
+#=#=#=#=# Propagation starts 2019-01-10T16:30:21Z (last step: 431 msec, total: 431 msec)
+#=#=#=# Syncrun finished 2019-01-10T16:30:21Z (last step: 10 msec, total: 441 msec)
+#=#=#=# Syncrun started 2019-01-10T17:40:12Z
+#=#=#=#=# Propagation starts 2019-01-10T17:40:13Z (last step: 1683 msec, total: 1683 msec)
+#=#=#=# Syncrun finished 2019-01-10T17:40:13Z (last step: 8 msec, total: 1692 msec)
+#=#=#=# Syncrun started 2019-01-12T07:21:14Z
+#=#=#=#=# Propagation starts 2019-01-12T07:21:15Z (last step: 805 msec, total: 805 msec)
+#=#=#=# Syncrun finished 2019-01-12T07:21:15Z (last step: 8 msec, total: 813 msec)
+#=#=#=# Syncrun started 2019-01-13T11:52:11Z
+#=#=#=#=# Propagation starts 2019-01-13T11:52:12Z (last step: 278 msec, total: 278 msec)
+#=#=#=# Syncrun finished 2019-01-13T11:52:12Z (last step: 4 msec, total: 282 msec)
+#=#=#=# Syncrun started 2019-01-13T13:46:43Z
+#=#=#=#=# Propagation starts 2019-01-13T13:46:44Z (last step: 326 msec, total: 326 msec)
+#=#=#=# Syncrun finished 2019-01-13T13:46:44Z (last step: 4 msec, total: 331 msec)
+#=#=#=# Syncrun started 2019-01-14T12:33:52Z
+#=#=#=#=# Propagation starts 2019-01-14T12:33:53Z (last step: 176 msec, total: 176 msec)
+#=#=#=# Syncrun finished 2019-01-14T12:33:53Z (last step: 5 msec, total: 181 msec)
+#=#=#=# Syncrun started 2019-01-14T12:36:02Z
+#=#=#=#=# Propagation starts 2019-01-14T12:36:02Z (last step: 175 msec, total: 175 msec)
+#=#=#=# Syncrun finished 2019-01-14T12:36:02Z (last step: 5 msec, total: 180 msec)
+#=#=#=# Syncrun started 2019-01-14T12:40:18Z
+#=#=#=#=# Propagation starts 2019-01-14T12:40:18Z (last step: 182 msec, total: 182 msec)
+#=#=#=# Syncrun finished 2019-01-14T12:40:18Z (last step: 5 msec, total: 187 msec)
+#=#=#=# Syncrun started 2019-01-14T12:55:46Z
+#=#=#=#=# Propagation starts 2019-01-14T12:55:46Z (last step: 168 msec, total: 168 msec)
+#=#=#=# Syncrun finished 2019-01-14T12:55:46Z (last step: 4 msec, total: 173 msec)
+#=#=#=# Syncrun started 2019-01-14T12:59:26Z
+#=#=#=#=# Propagation starts 2019-01-14T12:59:26Z (last step: 202 msec, total: 202 msec)
+#=#=#=# Syncrun finished 2019-01-14T12:59:26Z (last step: 8 msec, total: 210 msec)
